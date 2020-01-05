@@ -1,6 +1,8 @@
-# quizzler_app
+# Quizzler App
 
-A new Flutter project.
+A quiz-like app. For purpose training flutter only!
+
+![screenshot](images/screenshot.png)
 
 ## Getting Started
 
